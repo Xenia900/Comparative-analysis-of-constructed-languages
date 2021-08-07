@@ -1,0 +1,31 @@
+Οδηγίες προγράμματος
+
+Αυτός είναι ο κώδικας μιας μελέτη πάνω στη σύγκριση των κατασκευασμένων γλωσσών Esperanto, Ido και Interlingua. 
+
+Τα αρχεία φακέλων περιέχουν κείμενα στην κάθε γλώσσα που είναι για μελέτη και ανάλυση μεσώ του τομέα Text Mining. Επίσης υπάρχουν αρχεία με λεξικά των γλωσσών αυτών που θα βοηθήσουν σε κάποιες συναρτήσεις του προγράμματος. 
+
+Tο κύριο πρόγραμμα στην main, χωρίζεται σε τρία μέρη που το καθένα αντιστοιχεί σε κάθε γλώσσα. Οπότε ανάλογα ποια γλώσσα θέλουμε να μελετήσουμε βάζουμε σε σχόλιο τα υπόλοιπα κομμάτια της main. Επιπλέον θα χρειάστει να αλλάξετε το user name στα μέρη του κώδικα που χρησιμοποιηεί τα PATH για εισαγωγή του αρχείου. 
+
+C:\Users\user name\Desktop\DIPLO\Esperanto_Text\esperantobig1 για την μελέτη και επεξεργασία του κειμένου αυτού. 
+Αυτό θα χρειαστεί να γίνει στη: 
+	συνάρτηση main του main_program.py
+	στη συνάρτηση call_the_files() του inter_vocabulary_function.py 
+	στη συνάρτηση call_the_files() του ido_vocabulary_function.py
+
+Τέλος πάνω μέρος του κώδικα φαίνονται τα imports που χρησιμοποιεί ο κώδικας και μπορεί να χρειαστεί να εγκαταστήσετε στον υπολογιστή σας για να δουλέψει ο κώδικας.
+
+Program instructions  
+
+This is the code of a study on the comparison of the constructed languages Esperanto, Ido and Interlingua. 
+
+The folder files contain texts in each language that are for study and analysis by the Text Mining domain. There are also files with dictionaries of these languages that will help with some functions of the program. 
+
+The main program , it is divided into three parts each corresponding to each language. So depending on which language we want to study we comment out the other parts of main. In addition you will need to change the user name in the parts of the code that uses PATHs to import the file. 
+
+C:\Users\user name\Desktop\DIPLO\Esperanto_Text\esperantobig1 to study and edit this text. 
+You need to change the user name in the following functions: 
+	function main of main_program.py
+	function call_the_files() of inter_vocabulary_function.py 
+	function call_the_files() of ido_vocabulary_function.py 
+
+The top of the code shows the imports used by the code and you may need to install them on your computer for the code to work. 
